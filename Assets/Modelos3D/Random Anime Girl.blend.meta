@@ -1,0 +1,205 @@
+fileFormatVersion: 2
+guid: 3b1b9bbf3dc4fa34798724d9e075ba3e
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Empty
+    100002: GEO_eye_eyelash
+    100004: GEO_eye_pupil
+    100006: GEO_eye_white
+    100008: GEO_Female_base
+    100010: GEO_Female_eyebrows
+    100012: GEO_Female_shirt_003
+    100014: GEO_Female_skirt
+    100016: GEO_hair_back
+    100018: GEO_hair_back_02
+    100020: GEO_hair_bangs
+    100022: GEO_hairband
+    100024: Plane
+    100026: //RootNode
+    400000: Empty
+    400002: GEO_eye_eyelash
+    400004: GEO_eye_pupil
+    400006: GEO_eye_white
+    400008: GEO_Female_base
+    400010: GEO_Female_eyebrows
+    400012: GEO_Female_shirt_003
+    400014: GEO_Female_skirt
+    400016: GEO_hair_back
+    400018: GEO_hair_back_02
+    400020: GEO_hair_bangs
+    400022: GEO_hairband
+    400024: Plane
+    400026: //RootNode
+    2300000: GEO_eye_eyelash
+    2300002: GEO_eye_pupil
+    2300004: GEO_eye_white
+    2300006: GEO_Female_base
+    2300008: GEO_Female_eyebrows
+    2300010: GEO_Female_shirt_003
+    2300012: GEO_Female_skirt
+    2300014: GEO_hair_back
+    2300016: GEO_hair_back_02
+    2300018: GEO_hair_bangs
+    2300020: GEO_hairband
+    2300022: Plane
+    3300000: GEO_eye_eyelash
+    3300002: GEO_eye_pupil
+    3300004: GEO_eye_white
+    3300006: GEO_Female_base
+    3300008: GEO_Female_eyebrows
+    3300010: GEO_Female_shirt_003
+    3300012: GEO_Female_skirt
+    3300014: GEO_hair_back
+    3300016: GEO_hair_back_02
+    3300018: GEO_hair_bangs
+    3300020: GEO_hairband
+    3300022: Plane
+    4300000: GEO_Female_base
+    4300002: GEO_Female_shirt_003
+    4300004: GEO_Female_skirt
+    4300006: GEO_hair_back
+    4300008: GEO_hair_back_02
+    4300010: GEO_hair_bangs
+    4300012: GEO_eye_pupil
+    4300014: GEO_eye_white
+    4300016: GEO_eye_eyelash
+    4300018: GEO_Female_eyebrows
+    4300020: GEO_hairband
+    4300022: Plane
+    7400000: Default Take
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BI_Black
+    second: {fileID: 2100000, guid: 8888ad2b128d0df4caa8c258de76e4ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BI_base_005
+    second: {fileID: 2100000, guid: 4c38f079a18fad644a7c9ef267dd862e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BI_skin
+    second: {fileID: 2100000, guid: cafc60f98ae1cf14da2988755b3b2d4a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BL_hair_001
+    second: {fileID: 2100000, guid: c3087d011b9336048ae3f33a3999448b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BL_hair_001__HairBangs_DIFF_png
+    second: {fileID: 2100000, guid: c6ac5bd7d950abd459759dc983c3c1d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BL_hair_001__hair_scalp_Diff
+    second: {fileID: 2100000, guid: d4b3b88e5c4da1548a222f7523c939af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_001
+    second: {fileID: 2100000, guid: 814bfaadb5615d743a3cad9e6837fd4a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_003
+    second: {fileID: 2100000, guid: cc7e9b38f7ae0384aacf313bb25834bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_005__eye_png_001
+    second: {fileID: 2100000, guid: ada6a0d4b5eb89f4791968342087b0cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: shirt_001
+    second: {fileID: 2100000, guid: 7457ba68c8c27e24a87ea338fc7a9ccd, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
